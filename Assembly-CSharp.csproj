@@ -66,6 +66,12 @@
      <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\Scripts\CameraMovement.cs" />
+     <Compile Include="Assets\Scripts\DragOnPlane.cs" />
+     <Compile Include="Assets\Scripts\EnterSetTrig.cs" />
+     <Compile Include="Assets\Scripts\ExitSetTrig.cs" />
+     <Compile Include="Assets\Scripts\LightBeh.cs" />
+     <Compile Include="Assets\Scripts\StaySetTrig.cs" />
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/home/tugay/UnityProjects/faw_v1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

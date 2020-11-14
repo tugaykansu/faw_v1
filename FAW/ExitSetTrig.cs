@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnterSetTrig : MonoBehaviour
+public class ExitSetTrig : MonoBehaviour
 {
     public GameObject go;
     public string trig;
